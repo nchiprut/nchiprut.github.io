@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Convex Optimization"
+    url: /conv/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Publications"
+    #url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Talks"
+    #url: /talks/    
+
+  #- title: "Teaching"
+    #url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+    #url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /stories/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Tweets"
+    url: /tweets/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "CV"
+    #url: /cv/
+    
+  #- title: "Guide"
+    #url: /markdown/
